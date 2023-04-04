@@ -3,8 +3,9 @@
 
 My name is Nurgul I am Cloud & DevOps Engineer from Canada.
 
-<div id="https://media.giphy.com/media/1p4FBifKiROmgzlbHl/giphy.gif" width="100"/>
+<div id=“https://media.giphy.com/media/1p4FBifKiROmgzlbHl/giphy.gif" width="100"/>
 </div>
+
                                                                                
 Main Focus 
 * Infrastructure as Code (IaC)
