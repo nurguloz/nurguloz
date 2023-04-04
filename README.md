@@ -14,7 +14,7 @@ Main Focus
 * Cloud architecture and design
 
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/1p4FBifKiROmgzlbHl/giphy.gif" width="100"/>
 </div>
 
