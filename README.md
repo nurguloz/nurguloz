@@ -6,7 +6,7 @@
 
 -My name is Nurgul, I am Cloud & DevOps Engineer from Canada.
 
--Have extensive experience in designing and delivering software solutions using a variety of cutting-edge tools: Azure, AWS, Terraform, Docker, Kubernetes, Jenkins.
+-Have experience in designing and delivering software solutions using a variety of cutting-edge tools: Azure, AWS, Terraform, Docker, Kubernetes, Jenkins.
 
 -Fast learner and eager to explore new technologies.
 
