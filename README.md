@@ -43,12 +43,11 @@ Occasionally, I draw(:
 ## 📫 How to reach me:
 
 
-Email: nurgulozturkart@gmail.com
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nurgul-ozturk-0ab960129/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  
 
-Linked In: https://www.linkedin.com/in/nurgul-ozturk-0ab960129/
-
-
-
+📫: nurgulozturkart@gmail.com
 
 
 
