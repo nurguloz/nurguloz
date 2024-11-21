@@ -22,9 +22,8 @@
 * Infrastructure as Code (IaC)
 * Cloud architecture and design
 * Environment Provisioning and Automation
-* Application Containerization with Docker
-* CI/CD
-* Container Orchestration with Kubernetes
+* Application Containerization 
+* Container Orchestration 
 
 
 
